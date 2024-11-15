@@ -42,5 +42,7 @@ Before we dive into building our custom search engine, here’s what you need:
     ```
 
 
-
+### Error Handling
+- If the domains for news or Google search are invalid, ensure that they are provided in the correct format (e.g., `google.com` instead of `https://google.com`).
+- If you encounter `ValueError: Invalid API Key`, verify that your Exa API key is correctly set.
 
