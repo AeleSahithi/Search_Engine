@@ -22,14 +22,9 @@ This project provides a Python-based search engine that integrates APIs to retri
   git clone https://github.com/AeleSahithi/Search_Engine.git
   cd Search_Engine
 
-Installation
-Install the required Python packages:
-
-
-
-pip install exa_py
+### Installation
+-Install the required Python packages:
+'''bash
+`pip install exa_py`
 Ensure your API key for Exa is valid and added to the script:
-
-
-Copy code
-exa = Exa('your-api-key-here')
+`exa = Exa('your-api-key-here')`
