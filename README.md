@@ -4,7 +4,7 @@
 
 Imagine reading a funny tweet, and forgetting who tweeted it or where you saw it. Frustrating, right? Now, what if you could search for that exact content online in seconds? With **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, this is no longer a dream!
 
-In this tutorial, we build a custom search engine that helps you rediscover content from the web using **Exa API**, an advanced API for semantic search. Unlike traditional search engines that rely on keyword matching, Exa uses LLMs to understand human language, providing more accurate and relevant results.
+Here, we build a custom search engine that helps you rediscover content from the web using **Exa API**, an advanced API for semantic search. Unlike traditional search engines that rely on keyword matching, Exa uses LLMs to understand human language, providing more accurate and relevant results.
 
 By the end of this guide, you'll have created a search engine that finds what you're thinking about, whether it's a tweet, a news article, or a web page. 
 
