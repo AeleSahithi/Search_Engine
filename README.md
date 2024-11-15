@@ -23,10 +23,12 @@ This project provides a Python-based search engine that integrates APIs to retri
   cd Search_Engine
 
 ### Installation
-- Install the required Python packages:
+1.**Install the required Python packages**:
  ```bash
- pip install exa_py
+pip install exa_py
+ ```
+2.**Ensure your API Key for Exa is valid and added to the script**:
+ ```python
+    exa = Exa('your-api-key-here')
+    ``` 
 
-- Ensure your API key for Exa is valid and added to the script:
-```bash
-exa = Exa('your-api-key-here')
