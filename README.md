@@ -27,17 +27,20 @@ Before we dive into building our custom search engine, here’s what you need:
 - A **free Exa API key** (Get it [here](https://exa.ai/))
 - `pip` (Python package installer) to install dependencies
 
-### 1. Install Required Packages
+## Installation
 
-First, install the Exa Python library:
+1. **Install the required Python packages**:
 
-```bash
-pip install exa_py
+    ```bash
+    pip install exa_py
+    ```
 
-### Installation
-1.**Install the required Python packages**:
- ```bash
-pip install exa_py
- ```
+2. **Ensure your API key for Exa is valid and added to the script**:
+
+    ```python
+    exa = Exa('your-api-key-here')
+    ```
+
+
 
 
