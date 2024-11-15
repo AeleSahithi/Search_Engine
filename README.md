@@ -40,6 +40,8 @@ Before we dive into building our custom search engine, here’s what you need:
     ```python
     exa = Exa('your-api-key-here')
     ```
+### 
+![Search Engine Demo](Search engine.mp4)
 
 
 ### Error Handling
